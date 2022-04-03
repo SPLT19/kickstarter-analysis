@@ -12,7 +12,7 @@ Using the dataset of Kickstarterhe the following analysis has as objective, to t
 The analysis was performed using excel as our data analysis tool. Excel allowed to sort, filter, and visualise different characteristics and behaviour of each variable. 
 First using categorizations, we evaluated the number of campaigns related to different categories and if they were successful, live, cancelled or failed in their campaigns. 
 
-![theatreoutcomes](/Theather Outcomes.png)
+![theatreoutcomes](C:\Users\splt1\Documents\GitHub\kickstarter-analysis\Theather Outcomes.png)
 In this we can see that most successful categories campaigns outcomes are seen in music and theatre, whereas lesser outcomes are in food and games categories.  In this project the category of interest was theatre where we can see a big number of outcomes both in successful and failed campaigns, whereas there were fewer cancelled and live outcomes. 
 
 ![Alt text]("Outcomes Based on Launch Date.png")  

@@ -1,3 +1,2 @@
 # An Analysis of Kickstarter Campaigns
-Kickstarter data analysis to uncover trends and understand behaviour. 
-It includes Graphs and worksheet with different sheets including descriptive statistics and Pivot Tables. 
+This project consists in the *evaluation* of **Kickstarter campaigns data**, to understand the behaviour of this kind of events. Using different variables like time, country, funding goals, raised funds, type of project, among other variables, as well as the creation of new adjusted or filtered information extracted from the dataset we try to strengthen our understanding of this events.
